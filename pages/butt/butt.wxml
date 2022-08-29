@@ -1,0 +1,15 @@
+<!--pages/butt/butt.wxml-->
+<text>----------按钮操作---------</text>
+<button type="default">default</button>
+<button type="primary">primary</button>
+<button type="warn">warn</button>
+
+
+<view> --------小尺寸按钮-----</view>
+<button size="mini">default</button>
+<button type="primary"size="mini">primary</button>
+<button type="warn" size="mini">warn</button>
+<view> --------镂空按钮-----</view>
+<button size="mini" plain>default</button>
+<button type="primary"size="mini" plain>primary</button>
+<button type="warn" size="mini" plain>warn</button>

@@ -1,0 +1,9 @@
+<!--pages/txt/txt.wxml-->
+<text>文本组件</text>
+<view>
+<!-- 长按选中 selectable -->
+  手机号<text selectable>138888888</text>
+</view>
+<text>商品详情页的结构渲染</text>
+
+<rich-text nodes="<h1 style='color:red'>标题</h1>"></rich-text>

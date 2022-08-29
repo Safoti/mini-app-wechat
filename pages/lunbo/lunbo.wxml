@@ -1,0 +1,21 @@
+<!--pages/lunbo/lunbo.wxml-->
+<!--  indicator-dots  显示轮播的小圆点 -->
+<!--indicator-color 轮播的颜色 -->
+<!-- autoplay="true"
+interval="1000" -->
+<text>测试轮播图</text>
+<swiper  class="swiper-container" 
+indicator-dots   
+indicator-color="white" indicator-active-color="red"
+
+>
+  <swiper-item>
+  <view class="item">A</view>
+  </swiper-item>
+  <swiper-item>
+    <view class="item">B</view>
+  </swiper-item>
+  <swiper-item>
+    <view class="item">C</view>
+  </swiper-item>
+</swiper>

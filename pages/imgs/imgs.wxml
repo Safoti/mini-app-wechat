@@ -1,0 +1,4 @@
+<!--pages/imgs/imgs.wxml-->
+<text>photo</text>
+<image></image>
+<image src="/images/1.jpeg" mode="aspectFill"></image>

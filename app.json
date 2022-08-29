@@ -1,0 +1,20 @@
+{
+  "pages":[
+    "pages/imgs/imgs",
+    "pages/butt/butt",
+    "pages/txt/txt",
+    "pages/lunbo/lunbo",
+    "pages/list/list",
+    "pages/index/index",
+    "pages/logs/logs"
+
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

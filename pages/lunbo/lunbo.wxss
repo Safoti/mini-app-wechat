@@ -1,0 +1,19 @@
+/* pages/lunbo/lunbo.wxss */
+.swiper-container{
+  height: 150px;
+}
+.item{
+  height: 100%;
+  line-height: 150px;
+  text-align: center;
+}
+swiper-item:nth-child(1) .item{
+  background-color:  lightgreen;
+}
+
+swiper-item:nth-child(2) .item{
+  background-color:  rgb(144, 174, 238);
+}
+swiper-item:nth-child(3) .item{
+  background-color:  rgb(238, 144, 191);
+}
