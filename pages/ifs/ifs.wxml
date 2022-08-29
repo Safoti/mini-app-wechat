@@ -1,0 +1,22 @@
+<!--pages/ifs/ifs.wxml-->
+<text>08 条件渲染学习</text>
+<!-- 判断是否显示 -->
+<view wx:if="{{type==1}}">男</view>
+<view wx:elif="{{type==0}}">女</view>
+<view  wx:else>保密</view>
+
+
+<text>控制多个组件的展示与隐藏</text>
+<!-- block 只是进行包装性质 -->
+<block  wx:if="{{isShow}}">
+  <view >v1</view>
+  <view >v2</view>
+  <view >v3</view>
+  <view >v4</view>
+</block>
+
+
+
+<text>控制多个组件的展示与隐藏之 hidden</text>
+<view hidden="{{!hidden}}">v4</view>
+<view hidden="{{hidden}}">v5</view>

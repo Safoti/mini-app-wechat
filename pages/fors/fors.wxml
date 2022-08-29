@@ -1,0 +1,9 @@
+<!--pages/fors/fors.wxml-->
+<text>09循环渲染</text>
+<view wx:for="{{arr1}}" wx:for-index="idx"   wx:key="idx">
+  {{idx}}:{{item}}
+</view> 
+
+<text>wx:key 使用</text>
+<!-- 通过key 提高渲染性能 -->
+<view wx:for="{{userList}}" wx:key="id">{{item.name}}</view>  

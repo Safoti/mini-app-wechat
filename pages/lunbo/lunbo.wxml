@@ -3,7 +3,7 @@
 <!--indicator-color 轮播的颜色 -->
 <!-- autoplay="true"
 interval="1000" -->
-<text>测试轮播图</text>
+<text>02--测试轮播图</text>
 <swiper  class="swiper-container" 
 indicator-dots   
 indicator-color="white" indicator-active-color="red"

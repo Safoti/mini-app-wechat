@@ -1,0 +1,13 @@
+<!--pages/datas/datas.wxml-->
+<!-- 使用data中定义大数据 -->
+
+
+<text>06   属性绑定</text>
+<view>{{info}}</view>
+
+<!-- 动态绑定属性 -->
+<image src="{{images}}" mode="aspectFit"></image>
+<view>{{randomNum}}</view>
+<!-- <view>{{randomNum >=5 ?'大于5'：'小于5'}}</view> -->
+
+<view>生成100以内的随机数{{randomNumFiex*100}}</view>

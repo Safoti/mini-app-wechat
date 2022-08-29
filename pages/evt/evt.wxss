@@ -1,0 +1,8 @@
+/* pages/evt/evt.wxss */
+
+input{
+  border: red 1px solid;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 3px;
+}

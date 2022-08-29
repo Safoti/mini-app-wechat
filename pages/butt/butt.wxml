@@ -1,5 +1,5 @@
 <!--pages/butt/butt.wxml-->
-<text>----------按钮操作---------</text>
+<text>04----------按钮操作---------</text>
 <button type="default">default</button>
 <button type="primary">primary</button>
 <button type="warn">warn</button>

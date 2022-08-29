@@ -1,4 +1,5 @@
 <!--pages/list/list.wxml-->
+<text>01 view 试图学习</text>
 <!-- <view class="container1">
   <view>A</view>
   <view>B</view>

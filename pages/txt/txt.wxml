@@ -1,5 +1,5 @@
 <!--pages/txt/txt.wxml-->
-<text>文本组件</text>
+<text>03 文本组件</text>
 <view>
 <!-- 长按选中 selectable -->
   手机号<text selectable>138888888</text>

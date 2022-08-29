@@ -1,5 +1,10 @@
 {
   "pages":[
+    "pages/rpss/rpss",
+    "pages/fors/fors",
+    "pages/ifs/ifs",
+    "pages/evt/evt",
+    "pages/datas/datas",
     "pages/imgs/imgs",
     "pages/butt/butt",
     "pages/txt/txt",
